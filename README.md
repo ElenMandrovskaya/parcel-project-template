@@ -3,9 +3,9 @@ HTML5 | CSS3 | SASS | Jqery | JS | Parcel
 
 ## Developing
 ### Elena Mandrovskaya - team lead 
-#### Worked on sections: footer + registaration form + button Up
+#### Worked on sections: footer + registaration form + button Contact Us
 ### Ekaterina Vereshchagina - scrum master | @EkaterinaVEA
-#### Worked on sections: slider-review
+#### Worked on sections: slider-review  + button Up
 https://github.com/EkaterinaVEA
 ### Oleksandr Turianytsia | @SanyaRCT 
 #### Worked on sections: header + hero
