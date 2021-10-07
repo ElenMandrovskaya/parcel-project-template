@@ -1,5 +1,5 @@
 # HellEn - Landing Page of English School
-HTML5 | CSS3 | SASS | Jquery | JS | Parcel | Adaptive Web Design | Mobile First
+HTML5 | CSS3 | SASS | jQuery | JS | Parcel | Adaptive Web Design | Mobile First
 
 ## Developing
 ### Elena Mandrovskaya - team lead 
